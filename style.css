@@ -1,0 +1,43 @@
+body{
+    overflow-x: hidden;
+}
+
+ .content .aju{
+    margin-bottom: 400px;
+ }
+ .txt{
+    position: absolute;
+     top: 50%; 
+     bottom: 50%; 
+      color: aliceblue; 
+      font-size: 60px;
+       font-weight: 900;
+       
+ }
+ .para1 a{
+    text-decoration: none;
+    color: inherit;
+ }
+ .para2 a{
+    text-decoration: none;
+    color: inherit;
+ }
+
+ .nav-link{
+   color: white !important;
+   transition:color 0.2s ease;
+
+ }
+
+ .nav-link:hover{
+   color: red !important;
+ }
+  
+ @media(max-width=600px){
+   .image7{
+      height: 450px;
+   }
+
+
+ }
+ 
